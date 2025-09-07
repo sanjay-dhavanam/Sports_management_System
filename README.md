@@ -221,8 +221,6 @@ Sports_Management_System/
 
 <img width="2204" height="1164" alt="image" src="https://github.com/user-attachments/assets/b2714ca1-92dc-4a73-95ec-1e6f1f31b64d" />
 
-<img width="2204" height="1164" alt="image" src="https://github.com/user-attachments/assets/f0538063-5340-4cc0-bedb-f6be5c4e88bd" />
-
 <img width="2204" height="1169" alt="image" src="https://github.com/user-attachments/assets/86002559-4912-4539-93f2-431f194d3b32" />
 
 <img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/e2c09640-b28c-4600-915a-ec11f16bb4af" />
