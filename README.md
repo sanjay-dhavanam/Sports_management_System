@@ -3,6 +3,53 @@
 A complete Sports Management System built with PHP, MySQL, HTML, CSS and powered by XAMPP.
 It allows Admins to manage events, results, and participation while Students can register, view results, and track their participation.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📸 Screenshots
+<img width="1702" height="902" alt="image" src="https://github.com/user-attachments/assets/bb5c7b2d-354f-44fc-9e27-42961ea3ff0d" />
+
+<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/af3befee-29ef-4a73-b992-b7adb84e81de" />
+
+<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/738a9016-48be-431c-8515-29aede2d758b" />
+
+<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/cfcbfd50-01da-4aac-b19b-29f0868c07e6" />
+
+<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/f45fc748-683c-426e-9503-72e814e141ca" />
+
+<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/0f8eb5e6-91f1-437e-9461-dd891fc248fc" />
+
+<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/e8ab6d16-34ba-4837-811a-41a8218461e2" />
+
+<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/42430de0-1678-43d7-bd57-e79635096d2b" />
+
+<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/d89b4f96-7f61-4a60-9053-d84a5f5ead57" />
+
+<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/7b00fe8a-9dbe-45b4-8a92-ccaa5483ace9" />
+
+<img width="2204" height="1164" alt="image" src="https://github.com/user-attachments/assets/b2714ca1-92dc-4a73-95ec-1e6f1f31b64d" />
+
+<img width="2204" height="1169" alt="image" src="https://github.com/user-attachments/assets/86002559-4912-4539-93f2-431f194d3b32" />
+
+<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/e2c09640-b28c-4600-915a-ec11f16bb4af" />
+
+<img width="2204" height="1169" alt="image" src="https://github.com/user-attachments/assets/6b769217-f214-4b3d-991c-1b4b3d8a4e3e" />
+
+<img width="2202" height="1160" alt="image" src="https://github.com/user-attachments/assets/e42d7c31-f946-4940-a3cf-37a7da6ed512" />
+
+<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/940b13de-7c93-4fee-80b1-692a81829b00" />
+
+<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/9a17e93c-06be-43d6-89ef-57bc9bc0da10" />
+
+<img width="2204" height="1171" alt="image" src="https://github.com/user-attachments/assets/1f0703f4-533f-4d5a-ae8a-d20432ce0da2" />
+
+<img width="2204" height="1168" alt="image" src="https://github.com/user-attachments/assets/7a5fcd3d-dfcb-40ec-ade0-f9a675e223a9" />
+
+<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/164f6fc4-d24c-4c47-ba7c-74227e6640b1" />
+
+<img width="2204" height="1172" alt="image" src="https://github.com/user-attachments/assets/52cf8616-f72d-45dc-b9e2-b2c31a6002d7" />
+
+<img width="2220" height="1179" alt="image" src="https://github.com/user-attachments/assets/361c1512-37fb-45aa-a016-533e2077928f" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Features
@@ -195,53 +242,6 @@ Sports_Management_System/
 │── view_results.php
 │── /uploads
 │── sportsdb.sql   ← Import this into phpMyAdmin
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📸 Screenshots
-<img width="1702" height="902" alt="image" src="https://github.com/user-attachments/assets/bb5c7b2d-354f-44fc-9e27-42961ea3ff0d" />
-
-<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/af3befee-29ef-4a73-b992-b7adb84e81de" />
-
-<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/738a9016-48be-431c-8515-29aede2d758b" />
-
-<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/cfcbfd50-01da-4aac-b19b-29f0868c07e6" />
-
-<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/f45fc748-683c-426e-9503-72e814e141ca" />
-
-<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/0f8eb5e6-91f1-437e-9461-dd891fc248fc" />
-
-<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/e8ab6d16-34ba-4837-811a-41a8218461e2" />
-
-<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/42430de0-1678-43d7-bd57-e79635096d2b" />
-
-<img width="2204" height="1167" alt="image" src="https://github.com/user-attachments/assets/d89b4f96-7f61-4a60-9053-d84a5f5ead57" />
-
-<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/7b00fe8a-9dbe-45b4-8a92-ccaa5483ace9" />
-
-<img width="2204" height="1164" alt="image" src="https://github.com/user-attachments/assets/b2714ca1-92dc-4a73-95ec-1e6f1f31b64d" />
-
-<img width="2204" height="1169" alt="image" src="https://github.com/user-attachments/assets/86002559-4912-4539-93f2-431f194d3b32" />
-
-<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/e2c09640-b28c-4600-915a-ec11f16bb4af" />
-
-<img width="2204" height="1169" alt="image" src="https://github.com/user-attachments/assets/6b769217-f214-4b3d-991c-1b4b3d8a4e3e" />
-
-<img width="2202" height="1160" alt="image" src="https://github.com/user-attachments/assets/e42d7c31-f946-4940-a3cf-37a7da6ed512" />
-
-<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/940b13de-7c93-4fee-80b1-692a81829b00" />
-
-<img width="2204" height="1165" alt="image" src="https://github.com/user-attachments/assets/9a17e93c-06be-43d6-89ef-57bc9bc0da10" />
-
-<img width="2204" height="1171" alt="image" src="https://github.com/user-attachments/assets/1f0703f4-533f-4d5a-ae8a-d20432ce0da2" />
-
-<img width="2204" height="1168" alt="image" src="https://github.com/user-attachments/assets/7a5fcd3d-dfcb-40ec-ade0-f9a675e223a9" />
-
-<img width="2204" height="1163" alt="image" src="https://github.com/user-attachments/assets/164f6fc4-d24c-4c47-ba7c-74227e6640b1" />
-
-<img width="2204" height="1172" alt="image" src="https://github.com/user-attachments/assets/52cf8616-f72d-45dc-b9e2-b2c31a6002d7" />
-
-<img width="2220" height="1179" alt="image" src="https://github.com/user-attachments/assets/361c1512-37fb-45aa-a016-533e2077928f" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
